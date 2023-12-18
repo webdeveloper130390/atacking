@@ -1,0 +1,33 @@
+.atacking1{
+    width: 3000px;
+    height: 1000px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2S_2D6iIL2tx3D0lZKQc8Ux7E9j2AtjYjw&usqp=CAU); 
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+.box{
+    width: 600px;
+    height: 700px;
+    background-color: rgb(17, 17, 17);
+    border: 10px black;
+    box-shadow: 5px 5px 10px 10px rgb(255, 60, 0);
+    margin: 0 auto;
+    margin-left: 1200px;
+    margin-top: 200px;
+    backdrop-filter: blur(15px);
+    background: rgba(255, 255, 255, 0.2);
+}
+.title__box{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: rgb(255, 60, 0);;
+    margin-top: 5px;
+}
+.p{
+    color: rgb(255, 0, 0);
+    padding: 20px;
+}
